@@ -115,7 +115,11 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
+<<<<<<< HEAD
   controlID: 64
+=======
+  controlID: 133
+>>>>>>> upstream/main
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +144,11 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 65
+=======
+  controlID: 107
+>>>>>>> upstream/main
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +173,11 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 66
+=======
+  controlID: 108
+>>>>>>> upstream/main
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -396,21 +408,25 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
+<<<<<<< HEAD
       m_ExpandedIDs: 04d9fffff2ddffff86dfffff38e4ffffc4e4ffff10e5ffff6ee5ffffdee5ffff70e6ffff68e7ffff22e8ffffb6ebffff80ecffffb0edffffbef4ffff3cf7ffff54000000ec4e0000324f0000
+=======
+      m_ExpandedIDs: 32f5ffffa8f5ffff5afbffff5c3b0000
+>>>>>>> upstream/main
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: GameObject
+        m_OriginalName: GameObject
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 15128
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 8}
       m_SearchString: 
@@ -456,9 +472,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: 12.353901, y: -16.324947, z: -0.557389}
     speed: 2
     m_Value: {x: 12.353901, y: -16.324947, z: -0.557389}
+=======
+    m_Target: {x: 0.20314237, y: 3.9810538, z: -113.40745}
+    speed: 2
+    m_Value: {x: 0.20314237, y: 3.9810538, z: -113.40745}
+>>>>>>> upstream/main
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -508,9 +530,15 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< HEAD
     m_Target: 18.810122
     speed: 2
     m_Value: 18.810122
+=======
+    m_Target: 5.2486453
+    speed: 2
+    m_Value: 5.2486453
+>>>>>>> upstream/main
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -574,20 +602,35 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
     - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
   - Assets/Scenes
+=======
+    - Assets/Voices
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Voices
+>>>>>>> upstream/main
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Unity Projects\Blursed Monkey\The Dreamer_Gruppo B\The-Dreamer
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: b63d0000
     m_LastClickedID: 15798
     m_ExpandedIDs: 00000000b03d0000b63d0000f63f000000ca9a3b
+=======
+    scrollPos: {x: 0, y: 13}
+    m_SelectedIDs: 843c0000
+    m_LastClickedID: 15492
+    m_ExpandedIDs: 00000000743c000000ca9a3b
+>>>>>>> upstream/main
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -775,4 +818,4 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 100
